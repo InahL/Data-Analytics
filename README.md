@@ -6,7 +6,7 @@ It includes end-to-end projects as well as lab exercises that demonstrate data p
 ## Structure
 
 ### [Project/](./Project)
-End-to-end data analytics projects, each with dataset, code, and final report:
+End-to-end data analytics projects including dataset, code, and final report:
 - **Environmental Indicator Modeling and Regional Classification**
 - **Flight Delay Prediction**
 - **NYC Real Estate Analysis and Neighborhood Classification**
