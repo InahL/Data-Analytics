@@ -25,7 +25,6 @@ Hands-on exercises focusing on specific analytics concepts and techniques.
 ## Tools and Languages
 - **Languages:** R
 - **Libraries:** dplyr, tidyr, ggplot2, caret, randomForest, class, e1071, DescTools, stats
-- 
 - **Other Tools:** Git, RStudio
 
 ## Author
